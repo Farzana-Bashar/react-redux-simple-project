@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# A simple project from youtube by [DevEd](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
